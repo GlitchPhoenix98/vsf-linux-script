@@ -1,5 +1,9 @@
 # vsf-linux-script
 This is a script to help you setup VSeeFace on linux.
+## Dependencies
+* wget
+* 7z
+* cabextract
 
 ## Post Installation
 * After you run the script, you must add the program yourself in lutris.
